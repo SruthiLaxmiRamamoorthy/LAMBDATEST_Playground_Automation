@@ -2,11 +2,7 @@
 
 # Dependencies:
 To run the tests successfully, you will need the following dependencies installed:
-Python
-Pytest
-PyCharm (or any Python IDE of your choice)
-Selenium
-Driver Jar Files 
+Python, Pytest, PyCharm (or any Python IDE of your choice), Selenium, Driver Jar Files 
 
 # Installation:
 **Python**: You can download and install it from the official Python website: Python Downloads
